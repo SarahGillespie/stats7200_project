@@ -1,0 +1,11 @@
+---
+title: "CS 7200 - Brainstorming project"
+author: "By Sarah Elizabeth Gillespie"
+output:
+  pdf_document: default
+---
+
+```{r}
+library(ggplot2)
+library(knitr)
+```
